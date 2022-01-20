@@ -1,3 +1,21 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+.weatherApp {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
 h1 {
-  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(135, 135, 135);
+  font-size: 24px;
+  font-weight: 100;
+  height: 28;
 }
